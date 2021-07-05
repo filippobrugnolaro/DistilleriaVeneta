@@ -1,0 +1,51 @@
+Feedback Progetto di Programmazione ad Oggetti
+Studente: Brugnolaro Filippo
+
+Vincoli obbligatori
+- Il progetto contiene un file chiamato 'Crema al caffè.png'. Per un problema di
+  codifica la e accentata è stata sosituita da un altro carattere nella consegna
+  e non è stato possibile compilare.  Ho cambiato manualmente il nome del file,
+  ma è una buona regola non utilizzare catatteri accentati (e in generale UTF-8)
+  per i nomi dei files
++ Soddisfatti
+
+
+Orientamento ad oggetti
++ Separazione tra modelli, controller e viste enfatizzata dalla struttura
+  delle cartelle del progetto
++ Incapsulamento
++ Modularità (modello logico e la GUI sono separati)
++ Estensibilità ed evolvibilità, polimorfismo
++ Efficienza e robustezza
+
+
+Funzionalità
++ Possibilià di filtrare gli alcolici per colore e gusto
++ Possibilià di ordinare la lista di alcolici
++ Gestione file JSON
+
+
+GUI
+- La GUI prevede ridimensionamento solo fino ad una certa dimensione piuttosto
+  grande
++ Visualizza i diversi tipi di dato in maniera opportuna
++ Usabile e intuitiva
++ Robusta, gestisce ridimensionamento
++ Utilizzo di icone, colori ed elementi grafici
+
+
+Relazione
+- Presenti errori di battitura
+- Scrittura confusa e non chiara
+- Vengono sottolineati molti dettagli non interessanti, ad esempio:
+    * ogni classe del gerarchia ha un costruttore con parametri di default.
+      Inoltre tutti questi costruttori vengono anche inseriti nella relazione
+    * ogni classe ha getters per i campi dati
+    * il metodo clone() viene implementato nelle classi concrete perchè quelle
+      astratte non sono istanziabili
+    * il dynamic_cast sfrutta la RTTI
+- In generale, la relazione è poco leggibile
+
+
+Suggerimenti non collegati alla valutazione
+Nessuno.

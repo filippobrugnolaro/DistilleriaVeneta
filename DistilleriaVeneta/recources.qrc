@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/style">
+        <file>style.qss</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>data/data.json</file>
+        <file>product/non_spirits/cream/Crema al cioccolato.png</file>
+        <file>product/non_spirits/cream/Crema alla fragola.png</file>
+        <file>product/non_spirits/cream/Crema alla liquirizia.png</file>
+        <file>product/non_spirits/cream/Crema alla menta.png</file>
+        <file>product/non_spirits/cream/Crema alla nocciola.png</file>
+        <file>product/non_spirits/cream/Crema alla panna.png</file>
+        <file>product/non_spirits/cream/Crema al limone.png</file>
+        <file>product/non_spirits/cream/Crema all'uovo.png</file>
+        <file>product/non_spirits/cream/Crema frutti di bosco.png</file>
+        <file>product/spirits/liquor/Limoncello.png</file>
+        <file>product/spirits/liquor/Liquore alla liquirizia.png</file>
+        <file>product/spirits/liquor/Liquore alla nocciola.png</file>
+        <file>product/spirits/liquor/Liquore alla prugna.png</file>
+        <file>product/spirits/liquor/Liquore al miele.png</file>
+        <file>product/spirits/liquor/Liquore al mirtillo.png</file>
+        <file>product/spirits/liquor/Liquore al ribes.png</file>
+        <file>product/spirits/liquor/Rum.png</file>
+        <file>product/spirits/grappa/old/Grappa barricata.png</file>
+        <file>product/spirits/grappa/old/Grappa invecchiata.png</file>
+        <file>product/spirits/grappa/young/Grappa giovane.png</file>
+        <file>icon/icon.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/plus.png</file>
+        <file>icon/meno.png</file>
+        <file>product/non_spirits/cream/Crema al caffe.png</file>
+    </qresource>
+</RCC>
